@@ -1,11 +1,17 @@
 Home Team,Away Team,Winner,Predicted Winner,Correct
+Zamet,Hrvatski dragovoljac,H,H,1
+Kozala,Ardiaei,H,A,0
+Arena-Pula,Zadar 1954,A,A,1
+Umag,Buzet,A,H,0
+Rovinj,BM 07,H,H,1
+Dubovac-Gaza,Split,H,H,1
 BM 07,Kozala,A,A,1
 Split,Rovinj,A,A,1
 Hrvatski dragovoljac,Arena-Pula,H,H,1
 Ardiaei,Umag,A,A,1
 Buzet,Zamet,A,A,1
 Zadar 1954,Dubovac-Gaza,H,H,1
-Kozala,Split,D,A,0
+Kozala,Split,D,H,0
 Buzet,Ardiaei,H,H,1
 Rovinj,Zadar 1954,A,H,0
 Umag,BM 07,H,H,1
@@ -17,7 +23,7 @@ Arena-Pula,Dubovac-Gaza,A,A,1
 Zadar 1954,Kozala,H,H,1
 Ardiaei,Zamet,H,A,0
 BM 07,Buzet,A,A,1
-Kozala,Hrvatski dragovoljac,H,A,0
+Kozala,Hrvatski dragovoljac,H,H,1
 Ardiaei,BM 07,H,H,1
 Zamet,Dubovac-Gaza,H,H,1
 Rovinj,Arena-Pula,H,H,1
@@ -47,9 +53,9 @@ Zadar 1954,Split,H,H,1
 Zamet,Kozala,H,H,1
 Dubovac-Gaza,Buzet,A,D,0
 Hrvatski dragovoljac,BM 07,H,H,1
-Split,Hrvatski dragovoljac,D,H,0
+Split,Hrvatski dragovoljac,D,A,0
 Umag,Kozala,H,H,1
-BM 07,Arena-Pula,D,H,0
+BM 07,Arena-Pula,D,A,0
 Zadar 1954,Zamet,D,A,0
 Buzet,Rovinj,H,D,0
 Ardiaei,Dubovac-Gaza,H,D,0
@@ -71,7 +77,7 @@ Umag,Ardiaei,H,H,1
 Kozala,BM 07,A,H,0
 Zamet,Buzet,H,H,1
 Dubovac-Gaza,Zadar 1954,H,D,0
-Split,Kozala,H,H,1
+Split,Kozala,H,A,0
 BM 07,Umag,A,A,1
 Ardiaei,Buzet,H,A,0
 Hrvatski dragovoljac,Dubovac-Gaza,A,A,1
